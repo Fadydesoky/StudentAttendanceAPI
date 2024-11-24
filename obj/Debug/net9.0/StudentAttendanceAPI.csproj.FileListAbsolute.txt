@@ -139,6 +139,7 @@ D:\github d-top\SCM Project\SCM Final Project\StudentAttendanceAPI\obj\Debug\net
 D:\github d-top\SCM Project\SCM Final Project\StudentAttendanceAPI\obj\Debug\net9.0\StudentAttendanceAPI.csproj.CoreCompileInputs.cache
 D:\github d-top\SCM Project\SCM Final Project\StudentAttendanceAPI\obj\Debug\net9.0\StudentAttendanceAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\github d-top\SCM Project\SCM Final Project\StudentAttendanceAPI\obj\Debug\net9.0\StudentAttendanceAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\github d-top\SCM Project\SCM Final Project\StudentAttendanceAPI\obj\Debug\net9.0\StudentAttendanceAPI.sourcelink.json
 D:\github d-top\SCM Project\SCM Final Project\StudentAttendanceAPI\obj\Debug\net9.0\scopedcss\bundle\StudentAttendanceAPI.styles.css
 D:\github d-top\SCM Project\SCM Final Project\StudentAttendanceAPI\obj\Debug\net9.0\staticwebassets.build.json
 D:\github d-top\SCM Project\SCM Final Project\StudentAttendanceAPI\obj\Debug\net9.0\staticwebassets.development.json
