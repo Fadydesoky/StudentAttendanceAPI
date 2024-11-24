@@ -27,6 +27,7 @@ using (var scope = app.Services.CreateScope())
     AppDbContext.Seed(context); // تعبئة البيانات
 }
 app.UseRouting();
+app.UseCors(policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 // إعداد Swagger
 if (app.Environment.IsDevelopment())
 {
